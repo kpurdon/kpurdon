@@ -5,13 +5,24 @@ I'm a Staff Software Engineer with over 15 years of experience building backend 
 You'll notice my public contributions here are pretty quiet — that's because the vast majority of my work has been for private companies over the years. I’ve spent most of my career helping startups and growth-stage companies define and grow products, build scalable systems, secure infrastructure, and adopt internal platforms that power product delivery.
 
 ### 🛠️ What I do
+
 - Build backend systems and APIs in Go
 - Design developer platforms and internal tools
 - Architect and deploy infrastructure on GCP, AWS, and Kubernetes
 - Lead engineering initiatives from prototypes to production
 
 ### 📍 Currently
+
 Exploring new opportunities in backend and platform engineering. If you're building something interesting or want to connect, feel free to reach out!
+
+I'm looking for:
+
+- Senior or Staff-level engineering roles
+- **Backend**, platform, or infrastructure-focused
+- Preferably working in **Go**
+- **Close to the product and user-facing impact**
+- Healthy engineering culture (collaborative, thoughtful, no unhinged grind)
+- Remote or hybrid (Denver-based)
 
 ### 🌐 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/kylepurdon/)
