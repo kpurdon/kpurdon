@@ -18,8 +18,8 @@ Exploring new opportunities in backend and platform engineering. If you're build
 I'm looking for:
 
 - Senior or Staff-level engineering roles
-- **Backend**, platform, or infrastructure-focused
-- Preferably working in **Go**
+- **Backend/Product**, platform, or infrastructure-focused (in order of preference)
+- Preferably working in **Go** (or Python)
 - **Close to the product and user-facing impact**
 - Healthy engineering culture (collaborative, thoughtful, no unhinged grind)
 - Remote or hybrid (Denver-based)
