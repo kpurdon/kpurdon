@@ -6,23 +6,14 @@ You'll notice my public contributions here are pretty quiet — that's because t
 
 ### 🛠️ What I do
 
-- Build backend systems and APIs in Go
+- Build backend systems and APIs in Go/Python
 - Design developer platforms and internal tools
 - Architect and deploy infrastructure on GCP, AWS, and Kubernetes
 - Lead engineering initiatives from prototypes to production
 
 ### 📍 Currently
 
-Exploring new opportunities in backend and platform engineering. If you're building something interesting or want to connect, feel free to reach out!
-
-I'm looking for:
-
-- Senior or Staff-level engineering roles
-- **Backend/Product**, platform, or infrastructure-focused (in order of preference)
-- Preferably working in **Go** (or Python)
-- **Close to the product and user-facing impact**
-- Healthy engineering culture (collaborative, thoughtful, no unhinged grind)
-- Remote or hybrid (Denver-based)
+Staff Software Engineer @semgrep.
 
 ### 🌐 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/kylepurdon/)
